@@ -1,0 +1,14 @@
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/bin/Debug/net9.0/Binary_Search
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/bin/Debug/net9.0/Binary_Search.deps.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/bin/Debug/net9.0/Binary_Search.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/bin/Debug/net9.0/Binary_Search.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/bin/Debug/net9.0/Binary_Search.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/obj/Debug/net9.0/Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/obj/Debug/net9.0/Binary_Search.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/obj/Debug/net9.0/Binary_Search.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/obj/Debug/net9.0/Binary_Search.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/obj/Debug/net9.0/Binary_Search.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/obj/Debug/net9.0/refint/Binary_Search.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/obj/Debug/net9.0/Binary_Search.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/obj/Debug/net9.0/Binary_Search.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/002_Binary_Search/Binary_Search/obj/Debug/net9.0/ref/Binary_Search.dll

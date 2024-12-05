@@ -1,0 +1,14 @@
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/bin/Debug/net9.0/Linear_Search
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/bin/Debug/net9.0/Linear_Search.deps.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/bin/Debug/net9.0/Linear_Search.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/bin/Debug/net9.0/Linear_Search.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/bin/Debug/net9.0/Linear_Search.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/obj/Debug/net9.0/Linear_Search.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/obj/Debug/net9.0/Linear_Search.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/obj/Debug/net9.0/Linear_Search.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/obj/Debug/net9.0/Linear_Search.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/obj/Debug/net9.0/Linear_Search.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/obj/Debug/net9.0/refint/Linear_Search.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/obj/Debug/net9.0/Linear_Search.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/obj/Debug/net9.0/Linear_Search.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/001_Linear_Search/Linear_Search/obj/Debug/net9.0/ref/Linear_Search.dll
