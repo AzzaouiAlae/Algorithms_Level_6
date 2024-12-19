@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/bin/Debug/net9.0/bubble_sort
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/bin/Debug/net9.0/bubble_sort.deps.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/bin/Debug/net9.0/bubble_sort.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/bin/Debug/net9.0/bubble_sort.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/bin/Debug/net9.0/bubble_sort.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/bubble_sort.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/bubble_sort.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/bubble_sort.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/bubble_sort.sourcelink.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/bubble_sort.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/refint/bubble_sort.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/bubble_sort.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/bubble_sort.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/003_bubble_sort/bubble_sort/obj/Debug/net9.0/ref/bubble_sort.dll

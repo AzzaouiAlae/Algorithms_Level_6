@@ -1,4 +1,6 @@
-﻿namespace Binary_Search;
+﻿using System.Text;
+
+namespace Binary_Search;
 
 class Program
 {
@@ -10,14 +12,17 @@ class Program
         {
             middle = ((end - start) / 2) + start;
             if(arr[middle] == value)
+            {
+                Console.WriteLine($"{++i}");
                 return middle;
+            }
             if(arr[middle] > value)
-                end = middle;
+                end = middle - 1;
             if(arr[middle] < value)
-                start = middle;
+                start = middle + 1;
             i++;
-            Console.WriteLine(i.ToString());
         } 
+        Console.WriteLine($"{i}");
         return -1;
     } 
     static void print_result_of_Search(int value, int result)
@@ -29,8 +34,9 @@ class Program
     }
     static void Main(string[] args)
     {
+        Console.Clear();
         int []arr = {22,25,37,41,45,46,49,51,55,58,70,80,82,90,95};
-        int value = 45;
+        int value = 90;
         int result = binasry_search(arr, value);
 
         print_result_of_Search(value, result);
