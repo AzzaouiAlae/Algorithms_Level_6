@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Binary_Search")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68fd8ccbb7e9dc4ed1c7514012c95717e1f27f89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf9e832325954e7ca4594afec3a4a44f791935c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Binary_Search")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Binary_Search")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

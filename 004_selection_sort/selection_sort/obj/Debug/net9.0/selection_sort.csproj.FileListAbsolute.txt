@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/bin/Debug/net9.0/selection_sort
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/bin/Debug/net9.0/selection_sort.deps.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/bin/Debug/net9.0/selection_sort.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/bin/Debug/net9.0/selection_sort.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/bin/Debug/net9.0/selection_sort.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/selection_sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/selection_sort.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/selection_sort.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/selection_sort.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/selection_sort.sourcelink.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/selection_sort.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/refint/selection_sort.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/selection_sort.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/selection_sort.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/004_selection_sort/selection_sort/obj/Debug/net9.0/ref/selection_sort.dll

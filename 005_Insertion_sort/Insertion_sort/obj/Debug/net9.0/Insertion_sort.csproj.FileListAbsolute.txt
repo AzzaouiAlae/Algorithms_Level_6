@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/bin/Debug/net9.0/Insertion_sort
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/bin/Debug/net9.0/Insertion_sort.deps.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/bin/Debug/net9.0/Insertion_sort.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/bin/Debug/net9.0/Insertion_sort.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/bin/Debug/net9.0/Insertion_sort.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/Insertion_sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/Insertion_sort.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/Insertion_sort.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/Insertion_sort.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/Insertion_sort.sourcelink.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/Insertion_sort.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/refint/Insertion_sort.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/Insertion_sort.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/Insertion_sort.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/005_Insertion_sort/Insertion_sort/obj/Debug/net9.0/ref/Insertion_sort.dll

@@ -8,21 +8,17 @@ class Program
     {
         int i = 0;
         int start = 0, end = arr.Length, middle;
-        while(start != end && start < end)
+        while(start < end)
         {
             middle = ((end - start) / 2) + start;
             if(arr[middle] == value)
-            {
-                Console.WriteLine($"{++i}");
                 return middle;
-            }
             if(arr[middle] > value)
                 end = middle - 1;
             if(arr[middle] < value)
                 start = middle + 1;
             i++;
         } 
-        Console.WriteLine($"{i}");
         return -1;
     } 
     static void print_result_of_Search(int value, int result)
