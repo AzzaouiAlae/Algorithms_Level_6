@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/bin/Debug/net9.0/General_tree
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/bin/Debug/net9.0/General_tree.deps.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/bin/Debug/net9.0/General_tree.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/bin/Debug/net9.0/General_tree.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/bin/Debug/net9.0/General_tree.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/General_tree.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/General_tree.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/General_tree.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/General_tree.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/General_tree.sourcelink.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/General_tree.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/refint/General_tree.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/General_tree.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/General_tree.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/General_tree/General_tree/obj/Debug/net9.0/ref/General_tree.dll
