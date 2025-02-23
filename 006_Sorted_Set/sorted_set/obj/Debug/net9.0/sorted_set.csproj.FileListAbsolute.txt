@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/bin/Debug/net9.0/sorted_set
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/bin/Debug/net9.0/sorted_set.deps.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/bin/Debug/net9.0/sorted_set.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/bin/Debug/net9.0/sorted_set.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/bin/Debug/net9.0/sorted_set.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/sorted_set.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/sorted_set.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/sorted_set.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/sorted_set.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/sorted_set.sourcelink.json
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/sorted_set.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/refint/sorted_set.dll
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/sorted_set.pdb
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/sorted_set.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/Algorithms_Level_6/006_Sorted_Set/sorted_set/obj/Debug/net9.0/ref/sorted_set.dll
